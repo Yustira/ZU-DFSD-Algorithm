@@ -110,7 +110,6 @@ def alocation(data, loc_s, loc_d):
         
     return data
 
-#Data/balanced_data.xlsx
 path = str(input('Enter Data path: '))
 df = pd.read_excel(path)
 df.set_index('Index', inplace=True)
@@ -147,5 +146,3 @@ cost = np.array(cost)
 total_cost = cost.sum()
 sleep(2)
 print('\nTotal cost: ', total_cost)
-
-
