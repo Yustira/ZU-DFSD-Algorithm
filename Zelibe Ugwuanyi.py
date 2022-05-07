@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 import numpy as np
 import pandas as pd
 from time import sleep
@@ -170,5 +167,3 @@ cost = np.array(cost)
 total_cost = cost.sum()
 sleep(2)
 print('\nTotal cost: ', total_cost)
-
-
