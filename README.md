@@ -1,2 +1,4 @@
 # Zelibe Ugwuanyi And Different Standard Deviation Algorithm
-By: Iyas Yustira, Dena
+By: Iyas Yustira, Dena Suprianto
+
+
