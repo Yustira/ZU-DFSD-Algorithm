@@ -16,7 +16,7 @@ def is_balanced(data):
         data = data_T.T
         data.loc['Dum', 'Supply'] = sum_b - sum_a
     else:
-        print('Unbalanced data: total supply > total demand ({:d} < {:d})'.format(sum_a, sum_b))
+        print('Unbalanced data: total supply > total demand ({:d} > {:d})'.format(sum_a, sum_b))
         Supply = data.pop('Supply').reset_index()
         data['Dum'] = np.zeros(len(data.index))
         data['Supply'] = Supply.Supply.to_numpy()
