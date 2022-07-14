@@ -3,10 +3,7 @@ By: **Iyas Yustira**, **Dena Suprianto**
 
 Zelibe Ugwuanyi (ZU) and Different Standard Deviation (DFSD) is a new solution to solve the transportation problem. ZU method was introduced by Zelibe and Ugwuanyi (in 2019) to overcome two stage process of standard solution which is tiring and time wasting becomes a one stage process. While, DFSD method was introduced by Ravi, Dickson, Akila and Sathya also in 2019. The algorithm is a unique way to reach the optimal solution without or with degeneracy conditions and directly find the optimal solution with minimum number of iterations.
 
-In this repository we are succesfully create the algorithm based on both methods. This repository includes of the main code of ZU and DFSD algorithm that can be running from your terminal, command prompt, or IDE that you prefered. We also included the basic concept and formulation of both methods to help you understanding these methods.  
-
-## Note:
-* This repository is under construction!!!
+In this repository we are succesfully create the algorithm based on both methods. This repository includes of the main code of ZU and DFSD algorithm that can be running from your terminal, command prompt, or IDE that you prefered. We also included the basic concept and formulation of both methods to help you understanding these methods. There are several sample if you wanna try this code in the data directory.
 
 
 # References
