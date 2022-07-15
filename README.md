@@ -11,8 +11,7 @@ We successfully created the algorithm of ZU and DFSD methods into python. Using 
 3. While the code is running, wait until the process stops and shows the result.
 
 
-
-https://user-images.githubusercontent.com/60638798/179241433-6f84186c-d110-45e0-9106-d1292a5cbb2b.mp4
+![img](https://user-images.githubusercontent.com/60638798/179242478-abd4436e-f1d3-4fdf-9876-c58094f9f6c4.gif)
 
 
 
