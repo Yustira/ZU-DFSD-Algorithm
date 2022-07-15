@@ -11,6 +11,12 @@ We successfully created the algorithm of ZU and DFSD methods into python. Using 
 3. While the code is running, wait until the process stops and shows the result.
 
 
+
+https://user-images.githubusercontent.com/60638798/179241433-6f84186c-d110-45e0-9106-d1292a5cbb2b.mp4
+
+
+
+
 # **References**
 * [Zelibe, Samuel & Ugwuanyi, C. (2019). ON A NEW SOLUTION OF THE TRANSPORTATION PROBLEM.](https://www.researchgate.net/publication/335972372_ON_A_NEW_SOLUTION_OF_THE_TRANSPORTATION_PROBLEM)
 * [Ravi, J. & Selvapandian, Dickson & Akila, R & Sathya, K. (2019). An Optimal Solution for Transportation problem-DFSD 1. Journal of Computational Mathematica. 3. 43. 10.26524/cm46.](https://www.researchgate.net/publication/333894284_An_Optimal_Solution_for_Transportation_problem-DFSD_1)
