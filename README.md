@@ -5,6 +5,10 @@ Zelibe Ugwuanyi (ZU) and Different Standard Deviation (DFSD) is a new solution t
 
 We successfully created the algorithm of ZU and DFSD methods into python. Using these codes we can calculate and find the optimal solution of the transportation problem based on both methods effectively. It can simplify the procedure to reduce time and error of manual calculating, especially if we face a complex system that can not be solved by conventional methods.  
 
+# How To Run The Code
+1. Run the code from your terminal, command prompt, or IDE that you prefered.
+2. Type the input name in command line shell. Make sure your input file located in data directory and the code just accepting file on excel data (*.xlsx).
+3. While the code is running, wait it until the process stopped and shows the result.
 
 
 # References
