@@ -7,8 +7,9 @@ We successfully created the algorithm of ZU and DFSD methods into python. Using 
 
 # **How To Run The Code**
 1. Run the code from your terminal, command prompt, or IDE that you prefered.
-2. Type the input name in command line shell. Make sure your input file located in data directory and the code just accepting file on excel data (*.xlsx).
-3. While the code is running, wait it until the process stopped and shows the result.
+2. Type the input name in the command line shell. Make sure your input file located in data directory and the code just accept file on excel format (*.xlsx).
+3. While the code is running, wait until the process stops and shows the result.
+
 
 
 # **References**
