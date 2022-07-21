@@ -1,3 +1,7 @@
+# Created by:
+# Iyas Yustira
+# Dena Suprianto
+
 import pandas as pd
 import numpy as np
 
